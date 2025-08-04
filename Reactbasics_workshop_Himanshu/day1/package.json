@@ -1,0 +1,15 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "Welcome to my **modern, interactive portfolio** – built as part of the React Basics Workshop, Day 1!   This site is a showcase of my skills, projects, and frontend fundamentals, featuring a sleek UI, dark mode, and dynamic content.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.0.6"
+  }
+}
