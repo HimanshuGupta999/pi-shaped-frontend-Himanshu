@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "react-app",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:import/typescript",
+    "prettier"
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": "off"
+  }
+}
